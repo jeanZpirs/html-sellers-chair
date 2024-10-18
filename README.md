@@ -2,4 +2,4 @@
 
 Una web sencilla en donde se aprende a aplicar reglas de diseño.
 
-Link: [Seller chairs]()
+Link: [Seller chairs](https://sellers-chairs-jean.netlify.app/)
